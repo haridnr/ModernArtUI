@@ -7,7 +7,8 @@ colors created using a linear layout.
 
 ScreenCast
 ----------
-You can check the screencast of this application.(https://www.youtube.com/watch?v=ZChnMYICsl8)
+You can check the screencast of this application.
+https://www.youtube.com/watch?v=ZChnMYICsl8
 
 
 Details
