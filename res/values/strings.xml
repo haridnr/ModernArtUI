@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="red_string">Red String</string>
+    <string name="green_string">Green String</string>
+
+    <string name="volume_bar">Volume Bar</string>
+    <string name="guide">More Information</string>
+
+</resources>
