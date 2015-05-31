@@ -10,6 +10,12 @@ ScreenCast
 You can check the screencast of this application.
 https://www.youtube.com/watch?v=ZChnMYICsl8
 
+This screencast was created using **gtk-recordmydesktop**.
+Installation on Ubuntu - 
+```
+$ sudo apt-get install gtk-recordmydesktop
+
+``` 
 
 Details
 -------
